@@ -1,0 +1,84 @@
+ETTh1_720_96_PMDformer_ETTh1_ftM_sl720_pl96_dm64_nh4_el1_dl1_df128_vl1_ps72_bs128_lr0.0005_latype3_do0.3_0  
+mse:0.35614722967147827, mae:0.3888222873210907
+
+ETTh1_720_192_PMDformer_ETTh1_ftM_sl720_pl192_dm32_nh4_el1_dl1_df32_vl1_ps72_bs128_lr0.0005_latype3_do0.3_0  
+mse:0.397660493850708, mae:0.41614052653312683
+
+ETTh1_720_336_PMDformer_ETTh1_ftM_sl720_pl336_dm32_nh4_el1_dl1_df32_vl1_ps72_bs128_lr0.0005_latype3_do0.3_0  
+mse:0.4203404188156128, mae:0.43031200766563416
+
+ETTh1_720_720_PMDformer_ETTh1_ftM_sl720_pl720_dm32_nh4_el1_dl1_df32_vl1_ps72_bs128_lr0.0005_latype3_do0.3_0  
+mse:0.43270039558410645, mae:0.45612943172454834
+
+ETTh2_720_96_PMDformer_ETTh2_ftM_sl720_pl96_dm64_nh4_el1_dl1_df128_vl1_ps72_bs32_lr0.0005_latype1_do0.3_0  
+mse:0.2698628008365631, mae:0.3291376531124115
+
+ETTh2_720_192_PMDformer_ETTh2_ftM_sl720_pl192_dm64_nh4_el1_dl1_df128_vl1_ps72_bs32_lr0.0005_latype1_do0.3_0  
+mse:0.3339923024177551, mae:0.37394142150878906
+
+ETTh2_720_336_PMDformer_ETTh2_ftM_sl720_pl336_dm64_nh4_el1_dl1_df128_vl1_ps72_bs32_lr0.0005_latype1_do0.3_0  
+mse:0.3572162389755249, mae:0.3964938521385193
+
+ETTh2_720_720_PMDformer_ETTh2_ftM_sl720_pl720_dm64_nh4_el2_dl1_df128_vl1_ps72_bs32_lr0.0005_latype1_do0.3_0  
+mse:0.39040407538414, mae:0.4292535185813904
+
+ETTm1_720_96_PMDformer_ETTm1_ftM_sl720_pl96_dm64_nh4_el2_dl1_df64_vl1_ps72_bs128_lr0.01_latype1_do0.3_0  
+mse:0.2791854739189148, mae:0.3287874162197113
+
+ETTm1_720_192_PMDformer_ETTm1_ftM_sl720_pl192_dm64_nh4_el2_dl1_df64_vl1_ps72_bs128_lr0.01_latype1_do0.3_0  
+mse:0.3230149745941162, mae:0.35800623893737793
+
+ETTm1_720_336_PMDformer_ETTm1_ftM_sl720_pl336_dm32_nh4_el2_dl1_df32_vl1_ps72_bs256_lr0.01_latype1_do0.3_0  
+mse:0.36133095622062683, mae:0.3838650584220886
+
+ETTm1_720_720_PMDformer_ETTm1_ftM_sl720_pl720_dm32_nh4_el2_dl1_df32_vl1_ps72_bs128_lr0.001_latype1_do0.3_0  
+mse:0.42186227440834045, mae:0.4160797894001007
+
+ETTm2_720_96_PMDformer_ETTm2_ftM_sl720_pl96_dm64_nh4_el1_dl1_df128_vl1_ps48_bs32_lr0.0005_latype1_do0.3_0  
+mse:0.15549439191818237, mae:0.24049998819828033
+
+ETTm2_720_192_PMDformer_ETTm2_ftM_sl720_pl192_dm64_nh4_el1_dl1_df128_vl1_ps48_bs32_lr0.0005_latype1_do0.3_0  
+mse:0.21381953358650208, mae:0.2823716998100281
+
+ETTm2_720_336_PMDformer_ETTm2_ftM_sl720_pl336_dm64_nh4_el1_dl1_df128_vl1_ps24_bs32_lr0.0002_latype1_do0.3_0  
+mse:0.2669597268104553, mae:0.32075461745262146
+
+ETTm2_720_720_PMDformer_ETTm2_ftM_sl720_pl720_dm64_nh4_el1_dl1_df128_vl1_ps24_bs32_lr0.0002_latype1_do0.3_0  
+mse:0.3479342758655548, mae:0.37651190161705017
+
+weather_720_96_PMDformer_custom_ftM_sl720_pl96_dm128_nh8_el2_dl1_df128_vl1_ps48_bs32_lr0.0005_latype1_do0.1_0  
+mse:0.14005136489868164, mae:0.17928141355514526
+
+weather_720_192_PMDformer_custom_ftM_sl720_pl192_dm32_nh8_el2_dl1_df32_vl1_ps48_bs32_lr0.001_latype1_do0.1_0  
+mse:0.18539592623710632, mae:0.2262037843465805
+
+weather_720_336_PMDformer_custom_ftM_sl720_pl336_dm32_nh8_el2_dl1_df64_vl1_ps48_bs32_lr0.0002_latype1_do0.1_0  
+mse:0.23695008456707, mae:0.27438774704933167
+
+weather_720_720_PMDformer_custom_ftM_sl720_pl720_dm32_nh8_el2_dl1_df32_vl1_ps48_bs32_lr0.001_latype1_do0.1_0  
+mse:0.3054676353931427, mae:0.3230336010456085
+
+electricity_720_96_PMDformer_custom_ftM_sl720_pl96_dm256_nh8_el2_dl1_df512_vl2_ps72_bs16_lr0.0005_latype1_do0.1_0  
+mse:0.12287672609090805, mae:0.21471650898456573
+
+electricity_720_192_PMDformer_custom_ftM_sl720_pl192_dm256_nh8_el2_dl1_df512_vl2_ps72_bs16_lr0.0005_latype1_do0.1_0  
+mse:0.1402391642332077, mae:0.23103566467761993
+
+electricity_720_336_PMDformer_custom_ftM_sl720_pl336_dm256_nh8_el2_dl1_df512_vl2_ps72_bs16_lr0.0005_latype1_do0.1_0  
+mse:0.15220431983470917, mae:0.24583908915519714
+
+electricity_720_720_PMDformer_custom_ftM_sl720_pl720_dm256_nh8_el2_dl1_df512_vl2_ps72_bs16_lr0.0005_latype1_do0.1_0  
+mse:0.17700108885765076, mae:0.2725326418876648
+
+traffic_720_96_PMDformer_custom_ftM_sl720_pl96_dm512_nh8_el3_dl1_df512_vl1_ps72_bs32_lr0.001_latype3_do0.1_0  
+mse:0.338198721408844, mae:0.21704648435115814
+
+traffic_720_192_PMDformer_custom_ftM_sl720_pl192_dm256_nh16_el3_dl1_df512_vl1_ps72_bs16_lr0.001_latype3_do0.1_0  
+mse:0.36750906705856323, mae:0.22740447521209717
+
+traffic_720_336_PMDformer_custom_ftM_sl720_pl336_dm512_nh8_el3_dl1_df512_vl1_ps72_bs16_lr0.0005_latype3_do0.1_0  
+mse:0.37930232286453247, mae:0.23567867279052734
+
+traffic_720_720_PMDformer_custom_ftM_sl720_pl720_dm512_nh8_el3_dl1_df512_vl1_ps72_bs16_lr0.0005_latype3_do0.1_0  
+mse:0.42629244923591614, mae:0.26295846700668335
+
