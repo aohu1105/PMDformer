@@ -1,6 +1,6 @@
 model_name=PMDformer
 
-root_path_name=../dataset
+root_path_name=../dataset./Solar
 data_path_name=solar_AL.txt
 model_id_name=solar
 data_name=Solar
