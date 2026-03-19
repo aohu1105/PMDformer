@@ -1,4 +1,4 @@
-# PMDFormer：面向长期预测的Patch均值解耦信息Transformer
+# PMDFormer：面向长期预测的Patch均值信息解耦Transformer
 
 [![论文](https://img.shields.io/badge/论文-OpenReview-blue?style=flat-square)](https://openreview.net/forum?id=rfJ41gK9Ct)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-brightgreen?style=flat-square)](https://www.python.org/)
