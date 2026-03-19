@@ -51,7 +51,7 @@ bash scripts/PMDformer/etth1.sh
 bash scripts/PMDformer/solar.sh
 ```
 
-训练日志默认保存在`./logs/PMDformer/目录下，`模型权重默认保存在 `./checkpoints/` 目录下。
+训练日志默认保存在`./logs/PMDformer/`目录下，模型权重默认保存在 `./checkpoints/` 目录下。
 
 ## 引用
 
