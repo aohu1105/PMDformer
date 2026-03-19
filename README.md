@@ -4,6 +4,8 @@
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-brightgreen?style=flat-square)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange?style=flat-square)](https://pytorch.org/)
 
+**English | [中文](README_CN.md)**
+
 ## Model Architecture
 
 ![PMDFormer Architecture](assets/Model.png)
